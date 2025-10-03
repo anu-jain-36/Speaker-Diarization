@@ -1,2 +1,4 @@
 .venv/
 LibriSpeech/
+data/
+lightning_logs/
